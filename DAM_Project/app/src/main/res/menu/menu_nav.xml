@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_phieumuon"
+            android:title="@string/nav_QLPM"
+            android:icon="@drawable/ic_qlpm"/>
+        <item android:id="@+id/nav_loaisach"
+            android:title="@string/nav_QLLS"
+            android:icon="@drawable/ic_qlls"/>
+        <item android:id="@+id/nav_sach"
+            android:title="@string/nav_QLS"
+            android:icon="@drawable/ic_s"/>
+        <item android:id="@+id/nav_thanhvien"
+            android:title="@string/nav_QLTV"
+            android:icon="@drawable/ic_qltv"/>
+    </group>
+    <item android:title="Thống kê">
+        <menu>
+            <item android:id="@+id/nav_doanhthu"
+                android:title="@string/nav_TKDT"
+                android:icon="@drawable/ic_top10"/>
+            <item android:id="@+id/nav_top10"
+                android:title="@string/nav_TKTOP10"
+                android:icon="@drawable/ic_dt"/>
+        </menu>
+    </item>
+    <item android:title="Tài khoản">
+        <menu>
+            <item android:id="@+id/nav_doimk"
+                android:title="@string/nav_Doimk"
+                android:icon="@drawable/ic_doimk"/>
+            <item android:id="@+id/nav_taikoan"
+                android:title="@string/nav_QLTK"
+                android:icon="@drawable/ic_qltk"/>
+            <item android:id="@+id/nav_logtout"
+                android:title="@string/nav_Logout"
+                android:icon="@drawable/ic_logout"/>
+        </menu>
+    </item>
+
+</menu>

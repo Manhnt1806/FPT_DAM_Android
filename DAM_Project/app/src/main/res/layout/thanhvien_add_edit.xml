@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingBottom="24dp"
+    android:paddingTop="24dp">
+            <TextView
+                android:id="@+id/tv_TV_add_edit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thêm thành viên mới"
+                android:textColor="@color/blue2"
+                android:textSize="30dp"
+                android:layout_gravity="center"/>
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_ma_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Mã thành viên"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="48dp"
+                android:layout_marginRight="48dp"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+            </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/input_Ten_TV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên thành viên"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginRight="48dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/input_nam_sinh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Năm sinh"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginRight="48dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_marginTop="30dp">
+                <Button
+                    android:id="@+id/btn_exit_add_edit_TV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Cancel" />
+                <Button
+                    android:id="@+id/btn_add_edit_TV"
+                    android:layout_marginLeft="48dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Save" />
+            </LinearLayout>
+        </LinearLayout>

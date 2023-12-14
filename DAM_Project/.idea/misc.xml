@@ -1,0 +1,58 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/ic_add.xml" value="0.179" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/ic_back_chitiet.xml" value="0.156" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/ic_chitiet_edit.xml" value="0.156" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/ic_chitiet_ngay.xml" value="0.156" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/ic_chitiet_pl.xml" value="0.156" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/ic_delete_chitiet.xml" value="0.156" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/ic_delete_loaisach.xml" value="0.135" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/ic_edit.xml" value="0.135" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/drawable/logo_background.xml" value="0.1" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/activity_main_chinh.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/activity_main_login.xml" value="0.18981481481481483" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/cv_loaisach.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/cv_phieumuon.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/cv_sach.xml" value="0.24615384615384617" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/cv_thanhvien.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/cv_thuthu.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/cv_top10.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/dialog_chi_tiet.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_admin.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_doanhthu.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_doimk.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_loaisach.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_phieumuon.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_sach.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_thanhvien.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_thuthu.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/frag_top10.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/header_nav.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/ic_add_tc.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/loaisach_add_edit.xml" value="0.24895833333333334" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/phieumuon_add.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/sach_add.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/taikhoan_frag.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/thanhvien_add_edit.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/thuthu_add.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/menu/menu_search.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_MOB2041/DAM_Project/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.1" />
+        <entry key="..\:/FPTPolytechnic/DAM_Project/app/src/main/res/layout/frag_loaisach.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_Project/app/src/main/res/layout/frag_phieumuon.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/DAM_Project/app/src/main/res/layout/frag_sach.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PNLib</string>
+    <string name="nav_QLPM">Quản lý phiếu mượn</string>
+    <string name="nav_QLLS">Quản lý loại sách</string>
+    <string name="nav_QLS">Quản lý sách</string>
+    <string name="nav_QLTV">Quản lý thành viên</string>
+    <string name="nav_TKTOP10">Top 10 sách mượn nhiều nhất</string>
+    <string name="nav_TKDT">Thống kê doanh thu</string>
+    <string name="nav_Doimk">Đổi mật khẩu</string>
+    <string name="nav_QLTK">Quản lý tài khoản</string>
+    <string name="nav_Logout">Đăng xuất</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
